@@ -140,4 +140,5 @@ Table of contents
     11.5. Matching Networks
     11.6. Architecture of Matching networks
     11.7. What's Next?
+
 Reference : Hands-On Deep Learning Algorithms with Python: Master deep learning algorithms with extensive math by implementing them using TensorFlow
